@@ -6,7 +6,7 @@ The aim of this project is to collect references to the history of Damdami Taksa
 
 [Gurbilas Patshahi Das](references/Gurbilas Patshahi 10.md)
 
-[Pracheen Panth Prakash](references/)
+[Pracheen Panth Prakash](references/Pracheen Panth Prakash.md)
 
 [Naveen Panth Prakash](references/Naveen Panth Prakash.md)
 
