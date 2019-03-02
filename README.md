@@ -1,3 +1,3 @@
 WAHEGURU JI KA KHALSA WAHEGURU JI KI FATEH
 
-[a relative link](PRACHINPANTHPARKASH.md)
+[Prachin Panth Parkash by Shaheed Rattan Singh Bhangu](PRACHINPANTHPARKASH.md)
